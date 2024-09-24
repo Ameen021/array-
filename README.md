@@ -1,5 +1,5 @@
 # array-
-This Java program, contained within the package week7B, demonstrates basic array manipulation and iteration in Java.
+//This Java program, contained within the package week7B, demonstrates basic array manipulation and iteration in Java.
 [Uploading sevenfirst.java…]package week7B;
 
 public class sevenfirst {
